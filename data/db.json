@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted",
+      "author": "Adigun",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted",
+      "author": "Ajibola",
+      "id": 2
+    },
+    {
+      "title": "hello world",
+      "body": "my name is adigun sakiru and am a computer programmer which i specialized in coding and all",
+      "author": "Adigun",
+      "id": 3
+    },
+    {
+      "title": "adigun",
+      "body": "jjjx",
+      "author": "Sultan",
+      "id": 5
+    }
+  ]
+}
